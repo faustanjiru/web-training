@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "AOI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "AOI_2026_Callibration", "descriptio": "Unknown Area Type", "timestamp": null, "begin": null, "end": null, "altitudeMo": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 36.422826770299999, -0.7108831965, 0.0 ], [ 36.472913828, -0.6915391379, 0.0 ], [ 36.490302112499997, -0.7371353682, 0.0 ], [ 36.441347217699999, -0.7562567285, 0.0 ], [ 36.422826770299999, -0.7108831965, 0.0 ] ] ] ] } }
+]
+}
