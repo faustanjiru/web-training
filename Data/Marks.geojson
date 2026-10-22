@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Marks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "No_": 1, "Station": "BS01", "X": 214064.18, "Y": 9921512.71, "H": 1903.31 }, "geometry": { "type": "Point", "coordinates": [ 36.431906429838463, -0.71208590555424, 1903.31 ] } },
+{ "type": "Feature", "properties": { "No_": 2, "Station": "BS02", "X": 213857.45, "Y": 9921346.62, "H": 1898.64 }, "geometry": { "type": "Point", "coordinates": [ 36.430049505311224, -0.713586013613032, 1898.6400000000001 ] } },
+{ "type": "Feature", "properties": { "No_": 3, "Station": "BS03", "X": 214288.56, "Y": 9920387.68, "H": 1901.19 }, "geometry": { "type": "Point", "coordinates": [ 36.433915350343426, -0.722255250382745, 1901.19 ] } },
+{ "type": "Feature", "properties": { "No_": 4, "Station": "BS04", "X": 215288.88, "Y": 9917078.57, "H": 1914.15 }, "geometry": { "type": "Point", "coordinates": [ 36.442879637248581, -0.752168856460871, 1914.15 ] } },
+{ "type": "Feature", "properties": { "No_": 5, "Station": "BS06", "X": 214669.12, "Y": 9918855.06, "H": 1901.47 }, "geometry": { "type": "Point", "coordinates": [ 36.437324362736305, -0.736109310578932, 1901.47 ] } },
+{ "type": "Feature", "properties": { "No_": 6, "Station": "BS07", "X": 220338.27, "Y": 9918976.65, "H": 2212.28 }, "geometry": { "type": "Point", "coordinates": [ 36.488226138415556, -0.735039378811838, 2212.2800000000002 ] } },
+{ "type": "Feature", "properties": { "No_": 7, "Station": "BS08", "X": 217877.89, "Y": 9918878.67, "H": 2057.21 }, "geometry": { "type": "Point", "coordinates": [ 36.466134572606883, -0.735912437083785, 2057.21 ] } },
+{ "type": "Feature", "properties": { "No_": 8, "Station": "BS09", "X": 219409.73, "Y": 9919968.51, "H": 2144.38 }, "geometry": { "type": "Point", "coordinates": [ 36.479893971159107, -0.726069738797368, 2144.380000000000109 ] } },
+{ "type": "Feature", "properties": { "No_": 9, "Station": "BS10", "X": 217818.77, "Y": 9922514.26, "H": 2061.21 }, "geometry": { "type": "Point", "coordinates": [ 36.465621831597062, -0.703052217813282, 2061.21 ] } },
+{ "type": "Feature", "properties": { "No_": 10, "Station": "BS11", "X": 218831.12, "Y": 9921205.97, "H": 2101.75 }, "geometry": { "type": "Point", "coordinates": [ 36.474704941819645, -0.714882092276636, 2101.75 ] } },
+{ "type": "Feature", "properties": { "No_": 11, "Station": "BS12", "X": 219098.22, "Y": 9920492.82, "H": 2109.85 }, "geometry": { "type": "Point", "coordinates": [ 36.4770996225243, -0.721329207662013, 2109.85 ] } },
+{ "type": "Feature", "properties": { "No_": 12, "Station": "BS14", "X": 215792.71, "Y": 9920563.29, "H": 1957.15 }, "geometry": { "type": "Point", "coordinates": [ 36.44742115438811, -0.72067567158217, 1957.15 ] } },
+{ "type": "Feature", "properties": { "No_": 13, "Station": "BS15", "X": 216227.77, "Y": 9919715.42, "H": 1983.79 }, "geometry": { "type": "Point", "coordinates": [ 36.451323071135022, -0.728341169332022, 1983.79 ] } },
+{ "type": "Feature", "properties": { "No_": 14, "Station": "BS16", "X": 216618.5, "Y": 9918921.86, "H": 2002.15 }, "geometry": { "type": "Point", "coordinates": [ 36.454827224970359, -0.7355156109107, 2002.15 ] } },
+{ "type": "Feature", "properties": { "No_": 15, "Station": "MH07", "X": 216044.12, "Y": 9915124.9, "H": 1957.68 }, "geometry": { "type": "Point", "coordinates": [ 36.449650248792217, -0.769830666257071, 1957.68 ] } },
+{ "type": "Feature", "properties": { "No_": 16, "Station": "RM05", "X": 225324.11, "Y": 9911460.56, "H": 2420.78 }, "geometry": { "type": "Point", "coordinates": [ 36.532954866623434, -0.803001345289975, 2420.7800000000002 ] } },
+{ "type": "Feature", "properties": { "No_": 17, "Station": "RM06", "X": 216241.28, "Y": 9919720.2, "H": 1984.3 }, "geometry": { "type": "Point", "coordinates": [ 36.451444395248934, -0.728298035099467, 1984.3 ] } }
+]
+}
